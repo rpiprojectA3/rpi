@@ -11,5 +11,6 @@ namespace RPI_projekt
     /// </summary>
     class Main
     {
+        Main() { }
     }
 }
