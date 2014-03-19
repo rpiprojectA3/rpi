@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace RPI_projekt
 {
+    /// <summary>
+    /// komentarz
+    /// </summary>
     class Main
     {
     }
